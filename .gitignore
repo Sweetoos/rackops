@@ -1,0 +1,6 @@
+infra/.env
+.env
+.env.*
+!.env.example
+**/target/
+**/.idea/
